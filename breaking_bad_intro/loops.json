@@ -1,0 +1,17 @@
+{
+    "files": [
+        { "path": "./medias/breaking-bad-intro.mp3", "id": "bbi", "loop": true }
+    ],
+    "scrollTrack": [
+        {
+            "scrollRange": [0, 100],
+            "jobs": [
+                {
+                    "id": "bbi",
+                    "interface": "gains",
+                    "valueRange": [1, 1]
+                }
+            ]
+        }
+    ]
+}
