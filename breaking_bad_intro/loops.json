@@ -1,6 +1,6 @@
 {
     "files": [
-        { "path": "./medias/breaking-bad-intro.mp3", "id": "bbi", "loop": true }
+        { "path": "https://cdn.jsdelivr.net/gh/olivier3lanc/cinematics-resources/breaking_bad_intro/breaking-bad-intro.mp3", "id": "bbi", "loop": true }
     ],
     "scrollTrack": [
         {
